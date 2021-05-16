@@ -1,5 +1,4 @@
 const { Client, Attachment, MessageAttachment } = require("discord.js");
-require("dotenv/config");
 
 const bot = new Client();
 bot.once("ready", () => {
