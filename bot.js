@@ -34,7 +34,7 @@ const agentList = [
   },
   {
     name: "Killjoy",
-    url: "https://static.wikia.nocookie.net/valorant/images/8/8c/Killjoy.png",
+    url: "https://static.wikia.nocookie.net/valorant/images/6/6b/Killjoy_artwork.png",
   },
   {
     name: "Omen",
@@ -66,7 +66,7 @@ const agentList = [
   },
   {
     name: "Yoru",
-    url: "https://static.wikia.nocookie.net/valorant/images/a/a1/Yoru2.png",
+    url: "https://static.wikia.nocookie.net/valorant/images/1/1a/Yoru_artwork.png",
   },
   {
     name: "Kay/o",
