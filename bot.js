@@ -58,7 +58,7 @@ const agentList = [
   },
   {
     name: "Skye",
-    url: "https://static.wikia.nocookie.net/valorant/images/b/b9/Skye_Keyart_final.png",
+    url: "https://static.wikia.nocookie.net/valorant/images/d/d6/Skye_artwork.png",
   },
   {
     name: "Sova",
@@ -70,7 +70,7 @@ const agentList = [
   },
   {
     name: "Kay/o",
-    url: "https://static.wikia.nocookie.net/valorant/images/8/83/KAYO_KeyArt.png",
+    url: "https://static.wikia.nocookie.net/valorant/images/a/a9/KAYO_artwork.png",
   },
 ];
 
