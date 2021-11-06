@@ -72,6 +72,10 @@ const agentList = [
     name: "Kay/o",
     url: "https://static.wikia.nocookie.net/valorant/images/a/a9/KAYO_artwork.png",
   },
+  {
+    name: "Chamber",
+    url: "https://static.wikia.nocookie.net/valorant/images/5/5d/Chamber_artwork.png",
+  },
 ];
 
 bot.on("message", (message) => {
